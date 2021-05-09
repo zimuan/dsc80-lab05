@@ -191,9 +191,9 @@ def answers():
     >>> len(list2)
     6
     """
-    return [1, 2, 1, 1],['https://www.qq.com/robots.txt', 'https://soundcloud.com/robots.txt',
-                         'https://www.popads.net/robots.txt', 'https://facebook.com/robots.txt',
-                         'https://www.tmall.com/robots.txt', 'https://www.linkedin.com/robots.txt']
+    return [1, 2, 1, 1],['qq.com', 'soundcloud.com',
+                         'popads.net', 'facebook.com',
+                         'tmall.com', 'linkedin.com']
 
 
 
